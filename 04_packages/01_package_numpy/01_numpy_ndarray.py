@@ -22,7 +22,6 @@ np.cdouble	            double complex	        复数，由两个双精度浮点�
 np.clongdouble	        long double complex	    复数，由两个扩展精度浮点数（实部和虚部）表示。
 numpy的数据类型end'''
 
-
 # 构造二维数组
 x = np.array([[1, 2, 3],
               [4, 5, 6]], dtype=np.single)
