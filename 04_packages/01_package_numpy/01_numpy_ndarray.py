@@ -30,4 +30,6 @@ type(x)  # 返回结果：<class 'numpy.ndarray'>
 
 print(x)
 
+'This is another test for submit'
+
 
